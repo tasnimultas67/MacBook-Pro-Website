@@ -24,7 +24,7 @@ function updatePomoCode(){
     const pomo = document.getElementById('pomo-code');
     const pomoCode = pomo.value;
 
-        // Pomo Code stevekaku
+        // Pomo Code "stevekaku"
     if(pomoCode == 'stevekaku'){
 
        const usePomo = updateTotalPrice() - (updateTotalPrice()*20 / 100) ;
