@@ -44,4 +44,12 @@ body{
 
 .pomo-input{
     border: 1px solid #333;
+    height: 45px;
+}
+.pomo-btn{
+    height: 46px;
+}
+.footer-hr-tag{
+    width: 75%;
+    margin: auto;
 }
